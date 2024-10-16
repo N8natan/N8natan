@@ -54,7 +54,7 @@
 
 <!-- Github Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N8-Software&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=n8natan&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 #
@@ -63,22 +63,22 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=n8-software&ide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00bfbf&text_color=FFF&border_radius=3&border_color=00bfbf&icon_color=00bfbf&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=n8natan&ide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00bfbf&text_color=FFF&border_radius=3&border_color=00bfbf&icon_color=00bfbf&theme=jolly" alt="GitHub stats">
 <!-- Github Profile Trophy -->
-  <a href="https://github.com/n8-software/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=n8-software&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00bfbf&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=00bfbf&count_private=true" alt="Most Used Languages">
+  <a href="https://github.com/n8natan/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=n8natan&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00bfbf&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=00bfbf&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
 <!-- Github Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N8-Software&bg_color=000000&color=00bfbf&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8natan&bg_color=000000&color=00bfbf&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
 
 <!-- Visitors Count -->
 <div align="center">
 <br><p align="centre"><b>VISITORS COUNT</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{N8-Software}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{n8natan}/count.svg" /></p> 
 <br></div>
 
 <!-- Image -->
