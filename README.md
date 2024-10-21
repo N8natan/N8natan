@@ -32,7 +32,9 @@
 ## 🔥 Skills
 <!-- Skills: Main Skills --> 
 ### Main Skills:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 
 <!-- Skills: Tools -->  
 ### Tools:
@@ -42,15 +44,13 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-<!-- Skills: Other Knowledge --> 
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
 <!-- Skills: Studying in this moment -->  
 ### Studying in this moment:
+![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 <!-- Github Profile Trophy -->
 <p align="center">
